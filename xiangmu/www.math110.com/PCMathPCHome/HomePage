@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<style>
+    .col-lg-4 {
+        -webkit-box-flex: 0 !important;
+        flex: 0 0 25% !important;
+        max-width: 25% !important;
+    }
+</style>
+<html lang="zxx">
+
+<head>
+
+    <title>大学数学教学平台--数学帮Math110</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="康迈软件科技" />
+    <meta name="Copyright" content="康迈软件科技版权所有,未经许可不得转载" />
+    <meta name="description" content="大学数学教学平台，专业人干专业事，优秀大学教师，手写视频讲解。" />
+    <meta name="keywords" content="math110,数学帮,视频讲解,知识点" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <script>
+        addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <!-- Custom Theme files -->
+    <link href="/Content/PCMath/css/FirstPage/bootstrap.css" rel="stylesheet" media="all" />
+    <link href="/Content/PCMath/css/FirstPage/style.css" rel="stylesheet" media="all" />
+    <!-- Testimonials-Css -->
+    <link rel="stylesheet" href="/Content/PCMath/css/FirstPage/owl.theme.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/Content/PCMath/css/FirstPage/owl.carousel.css" type="text/css" media="screen" property="" />
+    <!-- font-awesome icons -->
+    <link href="/Content/PCMath/css/FirstPage/fontawesome-all.min.css" rel="stylesheet" />
+    <!-- //Custom Theme files -->
+    <!-- online-fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Roboto:100i,400,500,700" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800" rel="stylesheet">
+    <!-- //online-fonts -->
+    <style>
+        .spanbtn {
+            margin: 5px;
+            padding: 5px 10px 5px 10px;
+            color: #fff;
+            font-weight: 700;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- banner -->
+    <div class="banner">
+        <!-- header -->
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-gradient-secondary pt-3">
+                <h1>
+                    <a class="navbar-brand" href="">
+                    <img src="/Content/theme/assets/frontend/pages/img/Kaoyan/math110.png" style="width:210px;height:60px" />
+                        
+                    </a>
+                </h1>
+
+                <button class="navbar-toggler ml-md-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                
+
+
+            </nav>
+        </header>
+        <!-- //header -->
+        <div class="container">
+            <!-- banner-text -->
+            <div class="banner-text">
+                <div class="slider-info">
+                    <h3>你想<span>学到</span> 什么？</h3>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- //banner-text -->
+    <!--banner form-->
+    
+    <!--//banner form-->
+    <!-- /services -->
+
+    <section class="banner-bottom-wthree py-lg-5 py-md-5 py-3">
+        <div class="container">
+            <div class="inner-sec-w3ls py-lg-5 py-3">
+                <h3 class="heading-agileinfo text-center">主要 <span> 功能</span></h3>
+                <div class="row middle-grids mt-md-5 pt-4">
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center">
+                        <div class="card">
+                            <a href="/Teaching/MathHome/Index">
+                                <div class="card-body">
+                                    <i class="fas fa-graduation-cap mb-2"></i>
+                                    <h5 class="card-title text-uppercase my-3">
+                                        教学平台
+                                    </h5>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                           平台课程详细划分，更清晰准确地展示全面的内容，带给用户更好的浏览体验是使用感受。
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center">
+                        <div class="card">
+                            <a href="/PCMath/PCKaoyanSpecial/PCKaoyanSpecial_Index">
+                                <div class="card-body">
+                                    <i class="fas fa-graduation-cap mb-2"></i>
+                                    <h5 class="card-title text-uppercase my-3">
+                                        教学专题
+                                    </h5>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                           资深大学教师团队多年研究考研学习方法，运用高深教育逻辑进行专题组织。
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center">
+                        <div class="card">
+                            <a href="/PCMath/PCKaoyanTopic/KaoyanTopic?ClassID=0366f534bac1403096647898245c5001&Area=1">
+                                <div class="card-body">
+                                    <i class="fas fa-book mb-2"></i>
+                                    <h5 class="card-title text-uppercase my-3">考研真题</h5>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                            整理历年多个院校考研真题，沉浸式真题考研法给你最真实的研题感受，名校试卷随你选择。
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center">
+                        <div class="card">
+                            <a href="/CompetitionMath/CompetitionHome/Index?Area=1">
+                                <div class="card-body">
+                                    <i class="fas fa-globe mb-2"></i>
+                                    <h5 class="card-title text-uppercase my-3">数学竞赛</h5>
+                                    <p class="card-text">
+
+                                    </p>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                            历年数学竞赛真题，平台重重把关，让你夯实数学基础，开拓数学思维，提升数学能力。
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center"style="padding-top:30px;">
+                        <div class="card">
+                            <a href="/ProfessionMath/ProfessionHome/Index">
+                                <div class="card-body">
+                                    <img src="/Content/theme/assets/frontend/pages/img/Kaoyan/111.png" />
+                                    <h5 class="card-title text-uppercase my-3">专业研题</h5>
+                                    <p class="card-text">
+
+                                    </p>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                           涵盖大学数学专业各学科考研真题，知识全面完整。把握考研命脉，迅速提高复习层次。
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center"style="padding-top:30px;">
+                        <div class="card">
+                            <a href="/Eword/word/index.html">
+                                <div class="card-body">
+                                    <img src="/Content/theme/assets/frontend/pages/img/Kaoyan/222.png" />
+                                    <h5 class="card-title text-uppercase my-3">考研单词</h5>
+                                    <p class="card-text">
+
+                                    </p>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                           运用数学逻辑思维记忆法快速理解单词，让考研单词富有活力，让语言学习不再枯燥乏味。
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 about-in-w3ls middle-grid-info text-center" style="padding-top:30px;">
+                        <div class="card">
+                            <a href="http://math.math110.com/MathWebpage/dist/index.html#/">
+                                <div class="card-body">
+                                    <img src="/Content/theme/assets/frontend/pages/img/Kaoyan/222.png" />
+                                    <h5 class="card-title text-uppercase my-3">课程资料</h5>
+                                    <p class="card-text">
+
+                                    </p>
+                                    <div style="font-size:10pt;padding-left:10px;">
+                                        <p style="text-align:left;">
+                                            针对大学课程进行细致的归类，课程资料和课程PPT模块，让知识更深入人心。
+                                        </p>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    
+    <!-- //services -->
+    <!-- choose -->
+    <section class="choose py-5">
+        <div class="container py-md-4 mt-md-3">
+            <div class="row inner_w3l_agile_grids-1 ">
+                <div class="col-lg-6 w3layouts_choose_left_grid1">
+                    <div class="choose_top">
+                        <h4 class="mb-3 mt-3 text-white">线下教学，线上辅助教学</h4>
+                        <p class="text-white">
+                            ●配合大学现今大学数学教学模式，教师线下授课;<br />
+                            ●线下组织内容,上传平台;<br />
+                            ●将课下班级引入课上，引导学生线上预习、学习、考核；<br />
+                            ●线上互动，作业、答疑、讨论等；<br />
+                            ●基于章节的线上测试(时间段、次数、题目数量、考核方式)；<br />
+                        </p>
+                        <p class="text-white">●大数据分析，根据学生在平台上的学习轨迹，分析评估，进一步引导教师改善教学方法与方式，提高学生学习积极性。</p>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-6 w3layouts_choose_left_grid2">
+                    <div class="row">
+                        <div class="col-md-6 w3l_choose_bottom1 mt-3 pt-md-4">
+                            <div class="choose_bottom_top">
+                                <i class="fas fa-globe mb-2"></i>
+                                <h5 class="card-title text-uppercase my-3">班级</h5>
+                                <p class="card-text">
+                                    线上线下结合教学
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 w3l_choose_bottom2">
+                            <div class="choose_bottom_top">
+                                <i class="fas fa-book mb-2"></i>
+                                <h5 class="card-title text-uppercase my-3">作业</h5>
+                                <p class="card-text">
+                                    作业在线一键提交
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 w3l_choose_bottom3 mt-3 pt-md-4">
+                            <div class="choose_bottom_top">
+                                <i class="fas fa-graduation-cap mb-2"></i>
+                                <h5 class="card-title text-uppercase my-3">答疑</h5>
+                                <p class="card-text">
+                                    在线答疑，不懂就问
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 w3l_choose_bottom4">
+                            <div class="choose_bottom_top">
+                                <i class="fas fa-globe mb-2"></i>
+                                <h5 class="card-title text-uppercase my-3">做题</h5>
+                                <p class="card-text">
+                                    在线练习，建立错题本
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //choose -->
+    <!-- /advantage -->
+    <section class="banner-bottom py-lg-5 py-md-5 py-3">
+        <div class="container">
+            <div class="inner-sec py-lg-5 py-3">
+                <h3 class="heading-agileinfo text-center">我们的 <span> 优势</span></h3>
+                <div class="row middle-grids mt-lg-5 pt-5">
+                    <div class="col-lg-6 advantage-grid-info1">
+                        <div class="advantage_left1 text-center">
+                            <img src="/Content/PCMath/css/images/p1.jpg" class="img-fluid" alt="" />
+                        </div>
+                    </div>
+                    <div class="col-lg-6 advantage-grid-info pt-md-5">
+                        <div class="advantage_left">
+                            <h4 class="mb-2">移动智能教学</h4>
+                            <h3>Intelligent Tutoring System</h3>
+                            <p class="mt-2">专业技术与专业项目，集教、学、考管理、运营于一体，促进高校快速发展移动学习平台。平台实现无缝衔接，移动端与PC端同步，实时学习。通过网络跨越了空间距离的限制，使学校的教育成为可以超出校园向更广泛的地区辐射的开放式教育。</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row middle-grids pt-lg-5">
+                    <div class="col-lg-6 advantage-grid-info pt-md-5 mt-md-5">
+                        <div class="advantage_left">
+                            <h4 class="mb-2">教学管理信息化</h4>
+                            <h3>Digitizing Teaching Management</h3>
+                            <p class="mt-2">在线教学平台具有自动管理和远程互动处理功能，被应用于网络教育的教学管理学生的选课、查询、测试与考试等。对每位学院的个性资料、学习过程和阶段情况等实现完整的系统跟踪记录，对学生提问类型、人数、次数进行的统计分析使教师了解学生在学习中遇到的疑点、难点和主要问题，并且更加有针对性地指导学生。</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 advantage-grid-info1">
+                        <div class="advantage_left2 text-center">
+                            <img src="/Content/PCMath/css/images/g1.jpg" class="img-fluid" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div style="height:20px;background-color:#f3f3f3;"></div>
+    <!-- //advantage -->
+    <!-- stats -->
+    <section class="stats py-5">
+        <div class="container py-md-5">
+            <h3 class="heading-agileinfo text-center">我们的  <span>成就</span></h3>
+            <span class="w3-line black"></span>
+            <div class="row inner_w3l_agile_grids-1 pt-md-5 mt-4">
+                <div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid">
+                    <i class="fas fa-trophy mb-2"></i>
+                    <p class="counter">2015</p>
+                    <h3>成立年份</h3>
+                </div>
+                <div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid1">
+                    <i class="fas fa-graduation-cap mb-2"></i>
+                    <p class="counter">17965</p>
+                    <h3>毕业生</h3>
+                </div>
+                <div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
+                    <i class="fas fa-user mb-2"></i>
+                    <p class="counter">32506</p>
+                    <h3>认证人员</h3>
+                </div>
+                <div class="col-lg-3 col-sm-6 w3layouts_stats_left w3_counter_grid2">
+                    <i class="fas fa-users mb-2"></i>
+                    <p class="counter">35760</p>
+                    <h3>学生</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- //stats -->
+    <!--/newsletter-->
+    <footer class="newsletter_right pymd-5 py-4" id="footer">
+        <div class="container">
+            <div class="inner-sec py-md-5 py-3">
+                <div class="row mb-md-4 mb-md-3">
+                    <div class="col-lg-7 col-md-12 social-info text-left">
+                        <h3 class="tittle1 foot mb-md-5 mb-4 text-white">简介</h3>
+                        <p>
+                            <a href="http://kangmai.math110.com"> <span style="font-weight:700;font-size:18px;">烟台康迈软件科技有限公司</span></a>,
+                            公司主要从事高等教育在线教学系统、企事业单位安全生产管理软件系统以及安全管理有关的软件开发业务、基于互联网+的社区/社群建设。
+                        </p>
+                        <p>
+                            课程教学平台 &nbsp;&nbsp; 大学教材课件&nbsp;&nbsp;
+                            考研真题&nbsp;&nbsp;
+                            专业考研&nbsp;&nbsp;数学分析&nbsp;&nbsp;
+                            高等代数&nbsp;&nbsp;
+                        </p>
+
+                    </div>
+                    <div class="col-lg-5 col-md-6 social-info text-left">
+                        <h3 class="tittle1 foot mb-md-5 mb-4 text-white">联系方式</h3>
+                        <p>莱山区迎春大街125号创业就业服务中心6楼 <br>烟台,中国</p>
+                        <p class="phone">电话: 0535-6715536</p>
+                        <p class="phone">
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--//newsletter-->
+    <!-- js -->
+    <script src="/Content/PCMath/js/FirstPage/jquery-2.2.3.min.js"></script>
+    <!-- //js -->
+    <!-- carousel(for feedback) -->
+    <script src="/Content/PCMath/js/FirstPage/owl.carousel.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.owl-carousel').owlCarousel({
+                loop: true,
+                margin: 10,
+                responsiveClass: true,
+                responsive: {
+                    0: {
+                        items: 1,
+                        nav: true
+                    },
+                    600: {
+                        items: 2,
+                        nav: false
+                    },
+                    1000: {
+                        items: 3,
+                        nav: true,
+                        loop: false,
+                        margin: 20
+                    }
+                }
+            })
+        })
+    </script>
+
+    <!-- //carousel(for feedback) -->
+    <!-- stats -->
+    <script src="/Content/PCMath/js/FirstPage/jquery.waypoints.min.js"></script>
+    <script src="/Content/PCMath/js/FirstPage/jquery.countup.js"></script>
+    <script>
+        $('.counter').countUp();
+    </script>
+    <!-- //stats -->
+    <!-- start-smooth-scrolling -->
+    <script src="/Content/PCMath/js/FirstPage/move-top.js"></script>
+    <script src="/Content/PCMath/js/FirstPage/easing.js"></script>
+    <script>
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 1000);
+            });
+        });
+    </script>
+    <!-- //end-smooth-scrolling -->
+    <!-- smooth-scrolling-of-move-up -->
+    <script>
+        $(document).ready(function () {
+            /*
+            var defaults = {
+                containerID: 'toTop', // fading element id
+                containerHoverID: 'toTopHover', // fading element hover id
+                scrollSpeed: 1200,
+                easingType: 'linear'
+            };
+            */
+
+            $().UItoTop({
+                easingType: 'easeOutQuart'
+            });
+
+        });
+    </script>
+    <script>
+        function LoginFun() {
+            var Account = $("#Account").val();
+            var PassWord = $("#PassWord").val();
+            $.ajax({
+                type: 'post',
+                url: 'LoginFun',
+                data: { "PassWord": PassWord, "Account": Account },
+                dataType: 'json',
+                success: function (result) {
+                    if (result.Code == "1") {
+                        //Teaching/MathHome/Index
+                        window.location.href = "/PCMath/PCHome/HomePage"
+                    }
+                    else {
+                        alert("账号密码不正确")
+                    }
+                }
+            })
+        }
+    </script>
+    <script src="/Content/PCMath/js/FirstPage/SmoothScroll.min.js"></script>
+    <!-- //smooth-scrolling-of-move-up -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/Content/PCMath/js/bootstrap.min.js"></script>
+
+</body>
+</html>
